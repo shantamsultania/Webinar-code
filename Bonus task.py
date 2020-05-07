@@ -1,3 +1,4 @@
+import smtplib
 
 # ['Spider-Man','Captain America','Thor','Iron Man']
 
@@ -8,7 +9,7 @@
 
 # concatenate all the iteams in name3
 
-# add your name append it
+# add your name (append it)
 
 # now we need non magical super hero's so you will remove  'Doctor Strange'
 
@@ -25,8 +26,30 @@
 # first name
 # last name
 # full = last name + " " +first name
-# certificate name = full name.upper
+# hero_name = full name.upper
 # coder the real name
 # email
 # email password
+# code is below use as it is 
+
+gmail_user = "enter your mail here"
+gmail_pwd = "enter your password here"
+TO = ['shantam1230@gmail.com']
+SUBJECT = "Bonus task by your name "
+TEXT = "Testing...... sending mail using Gmail with the help of python..." + hero_name + " Link to your branch file here"
+
+server = smtplib.SMTP('smtp.gmail.com', 587)
+server.ehlo()
+server.starttls()
+server.login(gmail_user, gmail_pwd)
+for i in range(len(TO)):
+    BODY = '\r\n'.join(['To: %s' % TO[i],
+                        'From: %s' % gmail_user,
+                        'Subject: %s' % SUBJECT,
+                        '', TEXT])
+
+    server.sendmail(gmail_user, [TO[i]], BODY)
+    print('email sent to '+ str(TO[i]))
+
+server.close()
 
