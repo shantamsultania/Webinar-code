@@ -39,6 +39,16 @@ To learn more about these Resources you can Refer to some of these articles writ
 
 https://medium.com/@unknown.underme
 
+Also, To learn more about these Resources you can Refer to this tutorial below by Microsoft on Youtube.
+
+👉🏼 What you'll learn:
+• The basics of Python.
+• Starting a project.
+• Common syntax.
+• Package management.
+
+🔗 Link to the tutorials: [tutorial](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+
 
 ### Made with ❤️ by Shantam Sultania
 #### About me
