@@ -1,4 +1,41 @@
-# Python Tutorial 
+# Webinar Code
+
+# Kotlin 
+
+This is the source code for python tutorial by Shantam Sultania (ME) for IEEE Student Branch Chandigarh University Session Tech talk on Kotlin for Android Development 
+
+## Kotlin 
+
+On 7 May 2019, Google announced that the Kotlin programming language is now its preferred language for Android app developers.
+Since the release of Android Studio 3.0 in October 2017, Kotlin has been included as an alternative to the standard Java compiler.
+Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference.
+Kotlin is designed to interoperate fully with Java, and the JVM version of its standard library depends on the Java Class Library,but type inference allows its syntax to be more concise.
+
+## Android 
+
+Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
+
+Android is developed by a consortium of developers known as the Open Handset Alliance,with the main contributor and commercial marketer being Google.
+
+Initially developed by Android Inc., which Google bought in 2005, Android was unveiled in 2007, with the first commercial Android device launched in September 2008.
+The current stable version is Android 10, released on September 3, 2019. 
+
+## Kotlin
+
+kotlin 1.3.0
+
+## Gradle 
+
+gradle version 3.6.0
+
+## Android Studio Version 
+
+android studio 3.6.0
+
+
+***************************************************************************************************************************************
+
+# Python
 
 This is the source code for python tutorial by Shantam Sultania (ME) for IEEE Student Branch Chandigarh University Session Tech talk on Python 
 
@@ -21,17 +58,17 @@ To install Pycharm
 
 just go through this link and do the needful installation you can also refer to this video tutorial given below for reference 
 
-https://www.jetbrains.com/pycharm/download/
-[Video reference](https://www.youtube.com/watch?v=AUiM1UaRCPc) 
+https://www.jetbrains.com/pycharm/download/ [Video reference](https://www.youtube.com/watch?v=AUiM1UaRCPc) 
 
 ### Anaconda 
 
 To install Anaconda
 
 just go through this link and do the needful installation you can also refer to this video tutorial given below for reference 
-https://docs.anaconda.com/anaconda/install/windows/
+https://docs.anaconda.com/anaconda/install/windows/ [Video for reference](https://www.youtube.com/watch?v=T3ff57rxTa8)
 
-[Video for reference](https://www.youtube.com/watch?v=T3ff57rxTa8)
+***************************************************************************************************************************************
+
 
 # Resources 
 
@@ -48,6 +85,8 @@ Also, To learn more about these Resources you can Refer to this tutorial below b
 • Package management.
 
 🔗 Link to the tutorials: [tutorial](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+
+***************************************************************************************************************************************
 
 
 ### Made with ❤️ by Shantam Sultania
